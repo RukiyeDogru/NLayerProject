@@ -1,0 +1,9 @@
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\ruktr\source\repos\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
