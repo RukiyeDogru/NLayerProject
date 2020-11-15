@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Core\\NLayerProject.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
       "projectName": "NLayerProject.Core",
-      "projectPath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Core\\NLayerProject.Core.csproj",
+      "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
       "packagesPath": "C:\\Users\\ruktr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Core\\obj\\",
+      "outputPath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruktr\\AppData\\Roaming\\NuGet\\NuGet.Config",

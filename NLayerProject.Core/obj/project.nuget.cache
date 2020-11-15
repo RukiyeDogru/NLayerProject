@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/V6n97VXyoLK+t++jKhQQglT3ykyKaMDjxKwlbuK34I1x+Te/SDl5LIv+5WmhMO2fRewNW59qtNzLO0jcE6MA==",
+  "dgSpecHash": "peD5u6wokhMreGLSD6fr0jY3qtBVCRQeGi2nMCS8b1cqhKcYA15XFgEGCQE0rXnAVoqrPUwjC5QJTCgvuNu+FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Core\\NLayerProject.Core.csproj",
+  "projectFilePath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -5743,11 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Service\\NLayerProject.Service.csproj",
+      "projectUniqueName": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj",
       "projectName": "NLayerProject.Service",
-      "projectPath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Service\\NLayerProject.Service.csproj",
+      "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj",
       "packagesPath": "C:\\Users\\ruktr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Service\\obj\\",
+      "outputPath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruktr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5763,11 +5763,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Core\\NLayerProject.Core.csproj": {
-              "projectPath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Core\\NLayerProject.Core.csproj"
+            "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
+              "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj"
             },
-            "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Data\\NLayerProject.Data.csproj": {
-              "projectPath": "C:\\Users\\ruktr\\source\\repos\\NLayerProject.API\\NLayerProject.Data\\NLayerProject.Data.csproj"
+            "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj": {
+              "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj"
             }
           }
         }
